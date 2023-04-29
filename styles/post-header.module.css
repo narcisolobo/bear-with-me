@@ -1,0 +1,15 @@
+.header {
+  position: relative;
+  min-height: 50vh;
+  padding-top: 4rem;
+}
+
+.header > img {
+  object-fit: cover;
+  z-index: -1;
+  filter: brightness(30%);
+}
+
+.title {
+  color: white;
+}

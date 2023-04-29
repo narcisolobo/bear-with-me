@@ -1,0 +1,10 @@
+.subtitle {
+  font-weight: 400;
+  font-style: italic;
+}
+
+/* @media (min-width: 48rem) {
+  .main-post {
+    grid-row: 1 / 4;
+  }
+} */

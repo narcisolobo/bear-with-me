@@ -1,0 +1,17 @@
+.post-grid {
+  display: grid;
+  align-items: start;
+  grid-template-columns: repeat(auto-fill, minmax(20rem, 1fr));
+  gap: 2rem;
+}
+
+/* @media (min-width: 48rem) {
+  .post-grid {
+    grid-template-columns: 2fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+  }
+
+  .main-post {
+    grid-row: 1 / 4;
+  }
+} */

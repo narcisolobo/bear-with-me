@@ -1,0 +1,29 @@
+.post-item {
+  max-height: 20rem;
+}
+
+.title {
+  font-size: 1em;
+}
+
+.subtitle {
+  font-size: 0.75em;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.body {
+  font-size: 0.75em;
+}
+
+.card-img {
+  aspect-ratio: 2 / 3;
+  object-fit: cover;
+}
+
+.ellipsis {
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+}
