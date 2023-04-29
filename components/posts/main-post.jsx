@@ -11,7 +11,7 @@ function MainPost({ post }) {
   return (
     <Card className={`shadow ${styles['main-post']}`}>
       <Image
-        src={imagePath(slug, image)}
+        src={imagePath(image)}
         alt={title}
         width={800}
         height={600}

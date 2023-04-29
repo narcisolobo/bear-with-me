@@ -1,13 +1,13 @@
 ---
 title: 'Camping Under the Stars'
-image: 'camping-under-the-stars.jpg'
+image: 'camping-under-the-stars.webp'
 date: '2023-04-23'
 excerpt: 'Today, I want to share with you one of my favorite things to do: camping under the stars!'
 isFeatured: false
 isMain: true
 ---
 
-![Camping Under the Stars {768x432} {priority} {caption: Our camping party!}](/images/posts/camping-under-the-stars.jpg)
+![Camping Under the Stars {768x432} {priority} {caption: Our camping party!}](/images/posts/camping-under-the-stars.webp)
 
 # Camping Under the Stars
 

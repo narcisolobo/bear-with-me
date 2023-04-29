@@ -1,12 +1,12 @@
 ---
 title: 'Finding Laughter in Difficult Times'
-image: 'finding-laughter-in-difficult-times.jpeg'
+image: 'finding-laughter-in-difficult-times.webp'
 date: '2023-03-08'
 excerpt: "When life gets tough, it can be hard to find reasons to smile or laugh. But that's exactly"
 isFeatured: false
 isMain: false
 ---
-![Finding Laughter in Difficult Times {768x432} {priority} {caption: A recent set at Yuk Yuk's.}](/images/posts/finding-laughter-in-difficult-times.jpeg)
+![Finding Laughter in Difficult Times {768x432} {priority} {caption: A recent set at Yuk Yuk's.}](/images/posts/finding-laughter-in-difficult-times.webp)
 
 # Finding Laughter in Difficult Times
 

@@ -1,12 +1,12 @@
 ---
 title: 'The Snowy Selkirk Mountains'
-image: 'snowy-mountains.jpg'
+image: 'snowy-mountains.webp'
 date: '2023-03-22'
 excerpt: 'I grew up in a small cabin nestled in the heart of the mountains, surrounded by towering trees'
 isFeatured: true
 isMain: false
 ---
-![The Snowy Selkirk Mountains {768x432} {priority} {caption: Home sweet home.}](/images/posts/snowy-mountains.jpg)
+![The Snowy Selkirk Mountains {768x432} {priority} {caption: Home sweet home.}](/images/posts/snowy-mountains.webp)
 
 # The Snowy Selkirk Mountains
 

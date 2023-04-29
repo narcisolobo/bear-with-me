@@ -1,12 +1,12 @@
 ---
 title: 'Cooking Catastrophe'
-image: 'cooking-catastrophe.jpg'
+image: 'cooking-catastrophe.webp'
 date: '2023-02-25'
 excerpt: 'I recently decided to throw a dinner party for all my pals, and I thought it would be fun'
 isFeatured: false
 isMain: false
 ---
-![Cooking Catastrophe {768x432} {priority} {caption: They make it look so easy.}](/images/posts/cooking-catastrophe.jpg)
+![Cooking Catastrophe {768x432} {priority} {caption: They make it look so easy.}](/images/posts/cooking-catastrophe.webp)
 
 # I had a Cooking Catastrophe!
 

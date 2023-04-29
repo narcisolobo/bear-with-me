@@ -35,14 +35,12 @@ function ContactForm({ show, setShow, toastSuccess, toastError }) {
       .post('/api/contact', contact)
       .then((res) => {
         toastSuccess();
-        console.log(res.data);
         setShow(false);
         setErrors(null);
         setContact(initialContact);
       })
       .catch((err) => {
         toastError();
-        console.log(err);
         setErrors(err?.response?.data?.errors);
       });
   };

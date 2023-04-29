@@ -3,7 +3,7 @@ import imagePath from '@/utils/image-path';
 import Container from 'react-bootstrap/Container';
 import ReactMarkdown from 'react-markdown';
 import styles from '@/styles/post-content.module.css';
-import components from '@/utils/image-component';
+import components from '@/utils/components';
 import Card from 'react-bootstrap/Card';
 import Col from 'react-bootstrap/Col';
 import Row from 'react-bootstrap/Row';
@@ -14,7 +14,7 @@ function PostContent({ post, recentPosts }) {
 
   return (
     <article>
-      <PostHeader title={title} image={imagePath(slug, image)} />
+      <PostHeader title={title} image={imagePath(image)} />
       <Container className={styles.article}>
         <Row className={styles.overlap}>
           <Col sm={7}>

@@ -1,5 +1,4 @@
-function imagePath(slug, image) {
-  // console.log(`/images/posts/${slug}/${image}`);
+function imagePath(image) {
   return `/images/posts/${image}`;
 }
 

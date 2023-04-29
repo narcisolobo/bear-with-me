@@ -1,13 +1,13 @@
 ---
 title: 'Learning to Code'
-image: 'learning-to-code.jpg'
+image: 'learning-to-code.webp'
 date: '2023-04-28'
 excerpt: "Hi everyone, Fozzie Bear here! As you may know, I've been trying to learn React.js lately"
 isFeatured: false
 isMain: false
 ---
 
-![Learning to Code {768x432} {priority} {caption: What the heck does 'this' mean?}](/images/posts/learning-to-code.jpg)
+![Learning to Code {768x432} {priority} {caption: What the heck does 'this' mean?}](/images/posts/learning-to-code.webp)
 
 # Learning to Code
 

@@ -15,7 +15,7 @@ function PostItem({ post }) {
       <Row className="g-0">
         <Col sm={4}>
           <Image
-            src={imagePath(slug, image)}
+            src={imagePath(image)}
             alt={title}
             width={400}
             height={300}

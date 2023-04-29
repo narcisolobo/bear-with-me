@@ -1,13 +1,13 @@
 ---
 title: 'My Coffee Beans Spilled'
-image: 'my-beans-spilled.jpg'
+image: 'my-beans-spilled.webp'
 date: '2023-04-17'
 excerpt: 'The other day, I was getting ready to make my morning cup of coffee, and as I was reaching'
 isFeatured: true
 isMain: false
 ---
 
-![My Coffee Beans Spilled {768x432} {priority} {caption: My poor coffee!}](/images/posts/my-beans-spilled.jpg)
+![My Coffee Beans Spilled {768x432} {priority} {caption: My poor coffee!}](/images/posts/my-beans-spilled.webp)
 
 # My Coffee Beans Spilled
 

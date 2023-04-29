@@ -1,13 +1,13 @@
 ---
 title: 'Human Version of Me?'
-image: 'human-fozzie.jpg'
+image: 'human-fozzie.webp'
 date: '2023-03-31'
 excerpt: "At first, I didn't believe it. How could someone look like me? But Kermit insisted, so I"
 isFeatured: true
 isMain: false
 ---
 
-![Human Version of Me? {768x432} {priority} {caption: A little eerie, no?}](/images/posts/human-fozzie.jpg)
+![Human Version of Me? {768x432} {priority} {caption: A little eerie, no?}](/images/posts/human-fozzie.webp)
 
 # Human Version of Me?
 
