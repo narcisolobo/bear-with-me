@@ -1,10 +1,10 @@
 import Image from 'next/image';
 import styles from '@/styles/post-content.module.css';
-import { PrismLight as SyntaxHighlighter } from 'react-syntax-highlighter';
+import { PrismLight } from 'react-syntax-highlighter';
 import oneDark from 'react-syntax-highlighter/dist/cjs/styles/prism/one-dark';
 import js from 'react-syntax-highlighter/dist/cjs/languages/prism/javascript';
 
-SyntaxHighlighter.registerLanguage('js', js);
+PrismLight.registerLanguage('js', js);
 
 const components = {
   p: (paragraph) => {
@@ -52,7 +52,7 @@ const components = {
   code({ node, inline, className, children, ...props }) {
     const match = /language-(\w+)/.exec(className || '');
     return !inline && match ? (
-      <Prism
+      <PrismLight
         {...props}
         children={String(children).replace(/\n$/, '')}
         style={oneDark}
