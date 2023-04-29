@@ -1,7 +1,10 @@
 import Image from 'next/image';
 import styles from '@/styles/post-content.module.css';
-import { Prism } from 'react-syntax-highlighter';
-import { oneDark } from 'react-syntax-highlighter/dist/cjs/styles/prism';
+import { PrismLight } from 'react-syntax-highlighter';
+import oneDark from 'react-syntax-highlighter/dist/cjs/styles/prism/one-dark';
+import js from 'react-syntax-highlighter/dist/cjs/languages/prism/javascript';
+
+PrismLight.registerLanguage('js', js);
 
 const components = {
   p: (paragraph) => {

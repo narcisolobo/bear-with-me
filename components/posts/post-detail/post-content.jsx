@@ -10,7 +10,7 @@ import Row from 'react-bootstrap/Row';
 import RecentPosts from '../recent-posts';
 
 function PostContent({ post, recentPosts }) {
-  const { title, image, slug, content } = post;
+  const { title, image, content } = post;
 
   return (
     <article>
