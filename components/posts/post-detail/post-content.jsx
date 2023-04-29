@@ -20,7 +20,7 @@ function PostContent({ post, recentPosts }) {
           <Col sm={7}>
             <Card className="shadow mb-3">
               <Card.Body>
-                <ReactMarkdown components={components} children={content} />
+                <ReactMarkdown components={components}>{content}</ReactMarkdown>
               </Card.Body>
             </Card>
           </Col>
