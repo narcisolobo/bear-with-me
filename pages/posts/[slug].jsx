@@ -4,11 +4,12 @@ import PostContent from '@/components/posts/post-detail/post-content';
 import { getPostData, getPostFiles, getRecentPosts } from '@/utils/posts';
 
 function PostDetailPage({ post, recentPosts }) {
+  const title = `Bear With Me: ${post.title}`;
   return (
     <Fragment>
       <Head>
         <meta name="description" content={post.excerpt} />
-        <title>Bear With Me: {post.title}</title>
+        <title>{title}</title>
       </Head>
       <PostContent post={post} recentPosts={recentPosts} />
     </Fragment>
